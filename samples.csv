@@ -1,3 +1,7 @@
 SAMPLE,Condition,Replicate,FilenameBase
-Sample1,Mycelia,1,SRR1234
-Sample2,Mycelia,2,SRR1235
+S_1,Spherule,1,SRR516231
+S_2,Spherule,2,SRR516233
+S_3,Spherule,3,SRR516236
+H_1,Hyphae,1,SRR516239
+H_2,Hyphae,2,SRR516240
+H_2,Hyphae,3,SRR516241
